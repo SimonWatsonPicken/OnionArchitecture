@@ -1,0 +1,9 @@
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\bin\Debug\OnionArchitecture.Repository.Implementation.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\bin\Debug\OnionArchitecture.Repository.Implementation.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\bin\Debug\OnionArchitecture.Domain.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\bin\Debug\OnionArchitecture.Repository.Interfaces.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\bin\Debug\OnionArchitecture.Domain.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\bin\Debug\OnionArchitecture.Repository.Interfaces.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\obj\Debug\OnionArchitecture.Repository.Implementation.csprojResolveAssemblyReference.cache
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\obj\Debug\OnionArchitecture.Repository.Implementation.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.Implementation\obj\Debug\OnionArchitecture.Repository.Implementation.pdb

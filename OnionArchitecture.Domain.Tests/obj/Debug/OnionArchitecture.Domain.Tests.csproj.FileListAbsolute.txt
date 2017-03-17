@@ -1,0 +1,9 @@
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\bin\Debug\OnionArchitecture.Domain.Tests.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\bin\Debug\OnionArchitecture.Domain.Tests.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\bin\Debug\OnionArchitecture.Domain.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\bin\Debug\OnionArchitecture.Domain.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\obj\Debug\OnionArchitecture.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\obj\Debug\OnionArchitecture.Domain.Tests.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain.Tests\obj\Debug\OnionArchitecture.Domain.Tests.pdb

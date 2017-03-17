@@ -1,0 +1,5 @@
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\OnionArchitecture.Domain.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\OnionArchitecture.Domain.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\OnionArchitecture.Domain.csprojResolveAssemblyReference.cache
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\OnionArchitecture.Domain.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\OnionArchitecture.Domain.pdb

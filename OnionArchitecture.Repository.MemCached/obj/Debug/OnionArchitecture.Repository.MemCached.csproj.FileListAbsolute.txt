@@ -1,0 +1,9 @@
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\bin\Debug\OnionArchitecture.Repository.MemCached.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\bin\Debug\OnionArchitecture.Repository.MemCached.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\bin\Debug\OnionArchitecture.Domain.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\bin\Debug\OnionArchitecture.Repository.Interfaces.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\bin\Debug\OnionArchitecture.Domain.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\bin\Debug\OnionArchitecture.Repository.Interfaces.pdb
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\obj\Debug\OnionArchitecture.Repository.MemCached.csprojResolveAssemblyReference.cache
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\obj\Debug\OnionArchitecture.Repository.MemCached.dll
+C:\Projects\Noodle\OnionArchitecture\OnionArchitecture.Repository.MemCached\obj\Debug\OnionArchitecture.Repository.MemCached.pdb
